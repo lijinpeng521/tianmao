@@ -10,13 +10,18 @@ html{
 
  @media screen and (max-width: 414px){
 	html{
-	    font-size: 85.50724638px;
+	    font-size: 64.6875px;
 	}
 }
 
 @media screen and (max-width: 376px){
 	html{
 	    font-size: 58.59375px;
+	}
+}
+@media screen and (max-width: 360px){
+	html{
+	    font-size: 56.25px;
 	}
 }
 
@@ -340,7 +345,7 @@ body{
 	height: 1.45rem;
 	background: #f8f8f8;
 	float: left;
-	margin-left: 0.1rem;
+	margin-left: 0.2rem;
 	
 	margin-top: 0.1rem;
 	position:relative;
@@ -399,7 +404,7 @@ body{
 
 }
 .main .show .middle_aged{
-	margin-left: 0.1rem;
+	margin-left: 0.2rem;
 	float: left;
 }
 .main .show .middle_aged .ground .title{
