@@ -277,7 +277,6 @@ body{
 }
 .main .order_two .Optimization{
 	width: 1.85rem;
-	height: 1.75rem;
 	background: #f8f8f8;
 	overflow: hidden;
 	float: left;
@@ -425,7 +424,6 @@ body{
 }
 .main .show .middle_aged{
 	width: 2.91rem;
-	height: 5.28rem;
 }
 .main .show .middle_aged .ground_next h3{
 	font-size: 0.24rem;
@@ -483,9 +481,10 @@ body{
 	background: #fff;
 	font-size: 0.18rem;
 	text-align: center;
-	line-height: 0.32rem;
 	margin-left: 2.38rem;
-	margin-bottom: 0.18rem;
+	position: relative;
+	bottom: 0.08rem;
+	line-height: 0.32rem;
 	
 }
 .m:after{
