@@ -340,7 +340,8 @@ body{
 	height: 1.45rem;
 	background: #f8f8f8;
 	float: left;
-	margin-left: 0.2rem;
+	margin-left: 0.1rem;
+	
 	margin-top: 0.1rem;
 	position:relative;
 }
@@ -396,6 +397,10 @@ body{
 	margin-top: 0.3rem;
 	margin-left: 0.83rem;
 
+}
+.main .show .middle_aged{
+	margin-left: 0.1rem;
+	float: left;
 }
 .main .show .middle_aged .ground .title{
 	width: 1.03rem;
@@ -454,12 +459,6 @@ body{
 	height: 0.73rem;
 	background: #fd0144;
 	margin-top: 0.05rem;
-}
-.main .show  li{
-	width: 2.93rem;
-	box-sizing: border-box;
-	margin-left: 0.2rem;
-	float: left;
 }
 .main .show .middle_aged .red h4{
 	font-size: 0.18rem;
